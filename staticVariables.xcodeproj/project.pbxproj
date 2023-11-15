@@ -17,6 +17,8 @@
 		BF2883FF2AF94206008A3EC3 /* staticVariablesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF2883FE2AF94206008A3EC3 /* staticVariablesTests.swift */; };
 		BF2884092AF94206008A3EC3 /* staticVariablesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF2884082AF94206008A3EC3 /* staticVariablesUITests.swift */; };
 		BF28840B2AF94206008A3EC3 /* staticVariablesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF28840A2AF94206008A3EC3 /* staticVariablesUITestsLaunchTests.swift */; };
+		BF2884182AF94322008A3EC3 /* TableViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF2884172AF94322008A3EC3 /* TableViewController3.swift */; };
+		BF28841A2AF9437D008A3EC3 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF2884192AF9437D008A3EC3 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		BF2884042AF94206008A3EC3 /* staticVariablesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = staticVariablesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF2884082AF94206008A3EC3 /* staticVariablesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = staticVariablesUITests.swift; sourceTree = "<group>"; };
 		BF28840A2AF94206008A3EC3 /* staticVariablesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = staticVariablesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF2884172AF94322008A3EC3 /* TableViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController3.swift; sourceTree = "<group>"; };
+		BF2884192AF9437D008A3EC3 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				BF2883E62AF94204008A3EC3 /* SceneDelegate.swift */,
 				BF2883E82AF94204008A3EC3 /* ViewController.swift */,
 				BF2883EA2AF94204008A3EC3 /* Main.storyboard */,
+				BF2884192AF9437D008A3EC3 /* ViewController3.swift */,
+				BF2884172AF94322008A3EC3 /* TableViewController3.swift */,
 				BF2883F02AF94206008A3EC3 /* Assets.xcassets */,
 				BF2883F22AF94206008A3EC3 /* LaunchScreen.storyboard */,
 				BF2883F52AF94206008A3EC3 /* Info.plist */,
@@ -263,8 +269,10 @@
 			files = (
 				BF2883E92AF94204008A3EC3 /* ViewController.swift in Sources */,
 				BF2883EF2AF94204008A3EC3 /* staticVariables.xcdatamodeld in Sources */,
+				BF28841A2AF9437D008A3EC3 /* ViewController3.swift in Sources */,
 				BF2883E52AF94204008A3EC3 /* AppDelegate.swift in Sources */,
 				BF2883E72AF94204008A3EC3 /* SceneDelegate.swift in Sources */,
+				BF2884182AF94322008A3EC3 /* TableViewController3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
